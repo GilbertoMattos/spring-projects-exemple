@@ -1,0 +1,4 @@
+spring:
+  database:
+    username: user-cliente
+    password: password-cliente

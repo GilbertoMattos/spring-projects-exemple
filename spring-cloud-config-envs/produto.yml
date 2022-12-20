@@ -1,0 +1,4 @@
+spring:
+  database:
+    username: user-produto
+    password: password-produto
